@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": " §7If you love all things anime this pack is for you   §o*Disclaimer no content in the pack is §4§l18+§7§r§o, however everyone's definition of NSFW is different so enable at your own risk.",
+        "name": "§dSierra's Anime pack",
+        "uuid": "023a7def-7c75-4a5d-958d-3961c70e5421",
+        "version": [0, 2, 1]
+    },
+    "min_engine_version": [1, 17, 0],
+    "modules": [{
+        "description": "Full Release 1.1",
+        "type": "resources",
+        "uuid": "6e83f527-cd5f-4270-a209-8edd3c950067",
+        "version": [0, 2, 1]
+    }]
+
+}
